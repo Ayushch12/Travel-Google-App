@@ -1,17 +1,10 @@
 {
-<<<<<<< HEAD
   "name": "travell",
-=======
-  "name": "travel",
->>>>>>> 26499d8e35be0d37fd855ebd5bbf9361c34bd70f
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
-<<<<<<< HEAD
     "@material-ui/icons": "^4.11.3",
-=======
->>>>>>> 26499d8e35be0d37fd855ebd5bbf9361c34bd70f
     "@material-ui/lab": "^4.0.0-alpha.61",
     "@react-google-maps/api": "^2.18.1",
     "@testing-library/jest-dom": "^5.16.5",
@@ -21,13 +14,13 @@
     "google-map-react": "^2.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-<<<<<<< HEAD
     "react-scripts": "5.0.1",
-=======
-    "react-scripts": "^2.1.3",
->>>>>>> 26499d8e35be0d37fd855ebd5bbf9361c34bd70f
     "web-vitals": "^2.1.4"
   },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "version_number"
+  },
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
